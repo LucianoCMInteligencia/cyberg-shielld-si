@@ -71,6 +71,30 @@ button[type="submit"] {
   cursor: pointer;
   border-radius: 5px;
 }
+  #hosting {
+  background-color: #f5f5f5;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#hosting h2 {
+  color: #1a237e;
+  font-size: 2em;
+}
+
+#hosting p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+#hosting .btn {
+  background-color: #1a237e;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
 
 footer {
   background-color: #0a2e4f;
