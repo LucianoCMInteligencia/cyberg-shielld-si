@@ -11,6 +11,9 @@ header {
   padding: 2rem;
   text-align: center;
 }
+  .titulo {
+  color: white;
+}
 
 nav ul {
   list-style: none;
